@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mkyong</groupId>
-	http://34.229.213.7:8080/github-webhook/
+	http://34.238.166.219:8080/github-webhook/
 	shnshxnhsxnx
-	http://34.229.227.86:8080/github-webhook/
+	http://34.238.166.219:8080/github-webhook/
 	<artifactId>CounterWebApp</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
